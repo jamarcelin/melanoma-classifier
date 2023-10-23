@@ -32,4 +32,4 @@ if (len(arguments) == 2) :
             print(f"Image: {filename}, Predicted Class: {class_labels[pred[0]]}")
 
 else:
-    print("Usage: python3 predicty.py image_file_name")
+    print("Usage: python3 predicty.py image_directory_name")
